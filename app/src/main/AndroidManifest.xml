@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.parcialmoviles">
+    package="com.example.layer">
 
     <application
         android:allowBackup="true"
@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Insonmio" />
+        <activity android:name=".Main4Apnea" />
+        <activity android:name=".Main5Reflujo" />
+        <activity android:name=".Main6Narcolepsia" />
+        <activity android:name=".Main7Resultados"></activity>
     </application>
 
 </manifest>

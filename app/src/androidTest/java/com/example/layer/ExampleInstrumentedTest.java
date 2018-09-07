@@ -1,4 +1,4 @@
-package com.example.parcialmoviles;
+package com.example.layer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
